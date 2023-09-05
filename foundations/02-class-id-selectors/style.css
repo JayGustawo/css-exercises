@@ -1,0 +1,16 @@
+p {
+  background-color: salmon;
+  font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+#two{
+  color: blue;
+  font-size: 3rem;
+}
+:nth-child(3) {
+  font-size: 2rem;
+}
+#four {
+  background-color: lightgreen;
+  font-size: 2rem;
+  font-weight: bold;
+}
